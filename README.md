@@ -1,2 +1,2 @@
 # title_scraper
-Scrapes journal url for title of paper
+Scrapes a scientific journal's url for the titles of the papers
